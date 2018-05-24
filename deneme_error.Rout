@@ -1,0 +1,30 @@
+
+R version 3.3.3 (2017-03-06) -- "Another Canoe"
+Copyright (C) 2017 The R Foundation for Statistical Computing
+Platform: x86_64-apple-darwin13.4.0 (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> 
+> print("Exp. data for this lncRNA do not exist in data")
+[1] "Exp. data for this lncRNA do not exist in data"
+> log(-2)
+[1] NaN
+Warning message:
+In log(-2) : NaNs produced
+> 
+> proc.time()
+   user  system elapsed 
+  0.217   0.041   0.297 

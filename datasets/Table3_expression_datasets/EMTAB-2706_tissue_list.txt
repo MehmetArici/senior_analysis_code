@@ -1,0 +1,32 @@
+lymph node
+pleura
+uterine cervix
+blood
+ileum
+Clone E6-1
+brain
+lung
+esophagus
+kidney
+caecum
+chordate pharynx
+adrenal gland
+nasal septum
+oral cavity
+zone of skin
+stomach
+skeletal muscle tissue
+urinary bladder
+liver
+prostate gland
+cartilage tissue
+bone tissue
+rectum
+ovary
+pancreas
+testis
+bone marrow
+uterus
+colon
+tongue
+breast

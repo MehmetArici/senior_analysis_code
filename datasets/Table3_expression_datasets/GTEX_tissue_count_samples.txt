@@ -1,0 +1,30 @@
+Muscle 430
+Blood Vessel 689
+Heart 412
+Adipose Tissue 577
+Uterus 83
+Vagina 96
+Breast 214
+Skin 891
+Salivary Gland 57
+Brain 1259
+Adrenal Gland 145
+Thyroid 323
+Lung 320
+Pancreas 171
+Esophagus 686
+Stomach 193
+Colon 345
+Small Intestine 88
+Prostate 106
+Testis 172
+Nerve 304
+Blood 510
+Spleen 104
+Pituitary 103
+Ovary 97
+Liver 119
+Kidney 32 *
+Fallopian Tube 6 *
+Bladder 11 *
+Cervix Uteri 11 *

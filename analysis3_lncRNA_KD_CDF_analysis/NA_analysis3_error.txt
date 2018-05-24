@@ -1,0 +1,5 @@
+Saving 5.1 x 6.19 in image
+Saving 5.1 x 6.19 in image
+Warning messages:
+1: Removed 65 rows containing non-finite values (stat_ecdf). 
+2: Removed 33 rows containing non-finite values (stat_ecdf). 

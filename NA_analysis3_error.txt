@@ -1,0 +1,3 @@
+Saving 7 x 7 in image
+Warning message:
+Removed 33 rows containing non-finite values (stat_ecdf). 

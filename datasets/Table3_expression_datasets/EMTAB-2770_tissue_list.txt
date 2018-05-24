@@ -1,0 +1,161 @@
+prostate carcinoma
+gastric adenocarcinoma
+bladder carcinoma
+glioblastoma
+high grade ovarian serous adenocarcinoma
+ureter urothelial carcinoma
+bladder transitional cell carcinoma
+B-cell acute lymphoblastic leukemia
+renal cell carcinoma
+thyroid gland undifferentiated (anaplastic) carcinoma
+embryonal rhabdomyosarcoma
+salivary gland squamous cell carcinoma
+amelanotic melanoma
+Ewing sarcoma
+melanoma
+ovarian endometrioid adenocarcinoma
+diffuse large B-cell lymphoma
+lung adenocarcinoma
+mesothelioma
+papillary renal cell carcinoma
+childhood T acute lymphoblastic leukemia
+childhood acute myeloid leukemia
+multiple myeloma
+endometrium adenocarcinoma
+breast adenocarcinoma
+pancreatic ductal adenocarcinoma
+papillary thyroid carcinoma
+primary effusion lymphoma
+acute myeloid leukemia
+non-small cell lung carcinoma
+transitional cell carcinoma of kidney
+oral squamous cell carcinoma
+tongue squamous cell carcinoma
+hypopharyngeal squamous cell carcinoma
+Burkitts lymphoma
+invasive ductal carcinoma
+chronic myelogenous leukemia
+colon adenocarcinoma
+breast carcinoma
+renal cell adenocarcinoma
+chondrosarcoma
+astrocytoma
+neuroblastoma
+B-cell non-Hodgkins lymphoma
+childhood acute megakaryoblastic leukemia
+small cell lung carcinoma
+colon carcinoma
+esophageal squamous cell carcinoma
+large cell lung carcinoma
+ovarian granulosa cell tumour
+ovarian carcinoma
+clear cell renal carcinoma
+squamous cell lung carcinoma
+undifferentiated carcinoma
+bronchogenic carcinoma
+medulloblastoma
+pancreatic adenocarcinoma
+anaplastic large cell lymphoma
+sarcomatoid mesothelioma
+desmoplastic medulloblastoma
+pharyngeal squamous cell carcinoma
+gastric small cell neuroendocrine carcinoma
+endometrial carcinoma
+breast ductal adenocarcinoma
+ovarian cystadenocarcinoma
+ovarian mucinous adenocarcinoma
+chronic lymphocytic leukemia
+stomach adenocarcinoma
+chronic eosinophilic leukemia
+pulmonary mucoepidermoid carcinoma
+ovarian clear cell adenocarcinoma
+endometrial stromal sarcoma
+myelodysplastic syndrome
+follicular thyroid carcinoma
+osteosarcoma
+rhabdoid tumor of the kidney
+leiomyoma
+unclassified pleomorphic sarcoma
+adult acute myeloid leukemia
+gliosarcoma
+Mantle cell lymphoma
+gastric carcinoma
+adenosquamous lung carcinoma
+lung giant cell carcinoma
+squamous cell breast carcinoma
+Hodgkins lymphoma
+endometrial endometrioid adenocarcinoma
+erythroleukemia
+cutaneous T-cell lymphoma
+hepatocellular carcinoma
+fibrosarcoma
+rectosigmoid adenocarcinoma
+hepatoblastoma
+colorectal carcinoma
+oligodendroglioma
+bone giant cell tumor
+squamous papilloma
+cutaneous melanoma
+intrahepatic cholangiocarcinoma
+gastric tubular adenocarcinoma
+#N/A
+mycosis fungoides
+duodenal adenocarcinoma
+blast phase chronic myelogenous leukemia
+T-cell acute lymphoblastic leukemia
+B-cell prolymphocytic leukemia
+childhood acute myeloid leukemia with maturation
+signet ring cell gastric adenocarcinoma
+adult T acute lymphoblastic leukemia
+mucinous gastric adenocarcinoma
+childhood B acute lymphoblastic leukemia
+pancreatic carcinoma
+pancreatic adenosquamous carcinoma
+alveolar rhabdomyosarcoma
+cecum adenocarcinoma
+ovarian mucinous cystadenocarcinoma
+invasive lobular carcinoma
+uterine sarcoma
+endometrial adenosquamous carcinoma
+gastric adenosquamous carcinoma
+adult acute monocytic leukemia
+pleural mesothelioma
+childhood acute monocytic leukemia
+adult B acute lymphoblastic leukemia
+Epstein-Barr virus-related Burkitt lymphoma
+acute promyelocytic leukemia
+bronchoalveolar adenocarcinoma
+malignant epithelioid mesothelioma
+papillary lung adenocarcinoma
+lung carcinoid tumor
+adrenal gland neuroblastoma
+ovarian serous adenocarcinoma
+esophageal adenocarcinoma
+Barrett adenocarcinoma
+ovarian adenocarcinoma
+basaloid squamous cell carcinoma
+pancreatic somatostatinoma
+rectal adenocarcinoma
+ovarian leiomyosarcoma
+thyroid gland sarcoma
+bladder squamous cell carcinoma
+vulvar leiomyosarcoma
+Askin tumor
+ovarian serous cystadenocarcinoma
+uterine leiomyosarcoma
+laryngeal squamous cell carcinoma
+uterine carcinosarcoma
+hilar cholangiocarcinoma
+cholangiocarcinoma
+gallbladder carcinoma
+ampulla of Vater adenocarcinoma
+malignant ovarian Brenner tumor
+childhood T lymphoblastic lymphoma
+bronchioloalveolar carcinoma
+anaplastic astrocytoma
+thyroid gland squamous cell carcinoma
+adult acute megakaryoblastic leukaemia
+rhabdomyosarcoma
+multiple endocrine neoplasia
+hereditary thyroid gland medullary carcinoma
+head and neck squamous cell carcinoma

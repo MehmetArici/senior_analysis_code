@@ -1,0 +1,5 @@
+zz <- file("out.txt", open="a")
+sink(zz, type="message", append=TRUE)
+sink(zz, type="output", append=TRUE)
+print("Exp. data for this lncRNA do not exist in data")
+log(-2)
